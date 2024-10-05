@@ -1,0 +1,13 @@
+# PirateSense git ignore.
+
+# Folders.
+.vs/*
+.vscode/*
+
+.idea/*
+
+Binaries/*
+Intermediates/*
+
+# File types.
+*.sln
